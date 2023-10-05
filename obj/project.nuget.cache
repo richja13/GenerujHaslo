@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqyvSYhyWZ2vgPI2pVR96+1g16xdR5QEB1PpS9os/ja+ngcEstcYSuVSlrmw3+9A+rU1BTB7GGEX2gAmjOIkhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xmadi\\source\\repos\\Egzamin\\Egzamin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xmadi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
